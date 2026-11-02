@@ -1,0 +1,15 @@
+OFF THE RAILS - iPhone setup (one time, about 5 minutes on your laptop)
+
+1. Go to github.com, sign in, click New repository.
+   Name it off-the-rails, set it to Public, click Create repository.
+2. Click "uploading an existing file". Drag in every file from this folder
+   (index.html, sw.js, manifest.webmanifest and the three .png icons). Click Commit changes.
+3. In the repo: Settings > Pages. Under "Build and deployment" choose
+   Deploy from a branch, branch main, folder / (root). Save.
+   After about a minute your link appears: https://YOUR-USERNAME.github.io/off-the-rails/
+4. On your iPhone, open that link in Safari. Tap Share > Add to Home Screen.
+5. Open it from the new home-screen icon once while you have signal.
+   From then on it works with no signal.
+
+Always open it from the home-screen icon: iPhone keeps that app's progress separate from Safari.
+New weeks: ask Claude for the next week pack (.json), save it to Files, then in the app go to Settings > Load week pack.
